@@ -14,3 +14,13 @@ body {
     margin: 0; /* altera o espaçamento fora */
     padding: 0; /*altera dentro dos limites do conteúdo*/
 }
+
+.principal {
+    background-image: url(assetes/Background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    height: 100vh;
+}
