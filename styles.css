@@ -87,3 +87,12 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.botao_terciario {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
+}
